@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ILS"]
+	path = ILS
+	url = https://github.com/mflores72000/ils
+	shallow = true
+	registered = true
 [submodule "qcr"]
 	path = qcr
 	url = https://github.com/mflores72000/qcr

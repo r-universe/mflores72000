@@ -1,5 +1,9 @@
 [
   {
+    "package": "ILS",
+    "oncran": true
+  },
+  {
     "package": "qcr",
     "oncran": true
   }
